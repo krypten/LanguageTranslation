@@ -1,0 +1,5 @@
+# Development files
+dev*
+
+# Checkpoint file
+checkpoint
